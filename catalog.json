@@ -5,10 +5,10 @@
       "name": "MonChien",
       "packageName": "monchien.com",
       "description": "Gerer tout sur ses chiens , avec mini jeu",
-      "iconUrl": null,
+      "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/monchien.png",
       "versionName": "1.0.1",
-      "versionCode": 1,
-      "updatedAt": "2026-09-08T18:18:28.856Z",
+      "versionCode": 2,
+      "updatedAt": "2026-09-08T18:27:01.279Z",
       "apkUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/releases/monchien/monchien-v1.0.1.apk"
     }
   ]
