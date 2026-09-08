@@ -3,7 +3,7 @@
     {
       "id": "monchien",
       "name": "MonChien",
-      "packageName": "monchien.com",
+      "packageName": "org.monchien.monchien",
       "description": "Gerer tout sur ses chiens , avec mini jeu",
       "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/monchien.png",
       "versionName": "1.0.1",
@@ -14,7 +14,7 @@
     {
       "id": "blackjacklab",
       "name": "BlackjackLab",
-      "packageName": "blackjacklab.com",
+      "packageName": "org.blackjacklab.blackjacklab",
       "description": "Calculateur et assistant de blackjack.",
       "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/blackjacklab.png",
       "versionName": "1.0.0",
@@ -25,7 +25,7 @@
     {
       "id": "monvan",
       "name": "MonVan",
-      "packageName": "MonVan.com",
+      "packageName": "app.netlify.effortless_crepe_c4516d.twa",
       "description": "Permet de gérer l'aménagement du van",
       "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/monvan.png",
       "versionName": "1",
