@@ -32,6 +32,17 @@
       "versionCode": 1,
       "updatedAt": "2026-09-08T19:41:33.592Z",
       "apkUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/releases/monvan/monvan-v1.apk"
+    },
+    {
+      "id": "moncarburant",
+      "name": "MonCarburant",
+      "packageName": "app.netlify.admirable_sprite_c9a0ba.twa",
+      "description": "Trouver le carburant le moins cher du secteur",
+      "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/moncarburant.png",
+      "versionName": "1",
+      "versionCode": 1,
+      "updatedAt": "2026-09-09T15:30:43.091Z",
+      "apkUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/releases/moncarburant/moncarburant-v1.apk"
     }
   ]
 }
