@@ -28,10 +28,10 @@
       "packageName": "app.netlify.effortless_crepe_c4516d.twa",
       "description": "Permet de gérer l'aménagement du van",
       "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/monvan.png",
-      "versionName": "1.2",
-      "versionCode": 3,
-      "updatedAt": "2026-09-09T16:03:16.424Z",
-      "apkUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/releases/monvan/monvan-v1.2.apk"
+      "versionName": "1.3",
+      "versionCode": 4,
+      "updatedAt": "2026-09-11T16:17:58.150Z",
+      "apkUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/releases/monvan/monvan-v1.3.apk"
     },
     {
       "id": "moncarburant",
