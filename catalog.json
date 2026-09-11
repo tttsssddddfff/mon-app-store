@@ -54,6 +54,17 @@
       "versionCode": 1,
       "updatedAt": "2026-09-11T15:58:56.819Z",
       "apkUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/releases/passwordgeneratorapp/passwordgeneratorapp-v1.apk"
+    },
+    {
+      "id": "passwordvaultapp",
+      "name": "PasswordVaultApp",
+      "packageName": "com.benaissa.passvault",
+      "description": "Coffre a mdp super sécuriser",
+      "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/passwordvaultapp.png",
+      "versionName": "1",
+      "versionCode": 1,
+      "updatedAt": "2026-09-11T16:56:51.163Z",
+      "apkUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/releases/passwordvaultapp/passwordvaultapp-v1.apk"
     }
   ]
 }
