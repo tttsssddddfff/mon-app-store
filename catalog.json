@@ -120,6 +120,17 @@
       "versionCode": 1,
       "updatedAt": "2026-09-15T19:17:14.818Z",
       "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/motusapp-v1.0/motusapp.apk"
+    },
+    {
+      "id": "game2048app",
+      "name": "Game2048App",
+      "packageName": "com.benaissa.game2048",
+      "description": "2048 anime : fusionnez les tuiles en glissant, avec animations fluides, annuler et record sauvegarde.",
+      "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/game2048app.png",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "updatedAt": "2026-09-15T19:31:46.395Z",
+      "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/game2048app-v1.0/game2048app.apk"
     }
   ]
 }
