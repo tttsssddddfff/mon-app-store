@@ -65,6 +65,28 @@
       "versionCode": 1,
       "updatedAt": "2026-09-11T16:56:51.163Z",
       "apkUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/releases/passwordvaultapp/passwordvaultapp-v1.apk"
+    },
+    {
+      "id": "parkfinderapp",
+      "name": "ParkFinderApp",
+      "packageName": "com.benaissa.parkfinder",
+      "description": "Enregistre où tu es garé et retrouve facilement ta voiture, avec minuteur de stationnement.",
+      "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/parkfinderapp.png",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "updatedAt": "2026-09-15T15:13:39.708Z",
+      "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/parkfinderapp-v1.0/parkfinderapp.apk"
+    },
+    {
+      "id": "qrscannerapp",
+      "name": "QRScannerApp",
+      "packageName": "com.benaissa.qrscan",
+      "description": "Scanne des QR codes avec la caméra et génère les tiens à partager.",
+      "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/qrscannerapp.png",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "updatedAt": "2026-09-15T15:13:47.288Z",
+      "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/qrscannerapp-v1.0/qrscannerapp.apk"
     }
   ]
 }
