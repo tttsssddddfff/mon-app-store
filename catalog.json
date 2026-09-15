@@ -98,6 +98,17 @@
       "versionCode": 1,
       "updatedAt": "2026-09-15T15:34:17.326Z",
       "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/habittrackerapp-v1.0/habittrackerapp.apk"
+    },
+    {
+      "id": "shoppinglistapp",
+      "name": "ShoppingListApp",
+      "packageName": "com.benaissa.shoppinglist",
+      "description": "Liste de courses par rayons, avec ajout rapide des articles fréquents.",
+      "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/shoppinglistapp.png",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "updatedAt": "2026-09-15T15:43:08.295Z",
+      "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/shoppinglistapp-v1.0/shoppinglistapp.apk"
     }
   ]
 }
