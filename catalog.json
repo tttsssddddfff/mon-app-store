@@ -109,6 +109,17 @@
       "versionCode": 1,
       "updatedAt": "2026-09-15T15:43:08.295Z",
       "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/shoppinglistapp-v1.0/shoppinglistapp.apk"
+    },
+    {
+      "id": "motusapp",
+      "name": "MotusApp",
+      "packageName": "com.benaissa.motus",
+      "description": "Wordle en francais : devine le mot du jour en 6 essais, avec statistiques et serie de victoires.",
+      "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/motusapp.png",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "updatedAt": "2026-09-15T19:17:14.818Z",
+      "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/motusapp-v1.0/motusapp.apk"
     }
   ]
 }
