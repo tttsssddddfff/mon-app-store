@@ -87,6 +87,17 @@
       "versionCode": 1,
       "updatedAt": "2026-09-15T15:13:47.288Z",
       "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/qrscannerapp-v1.0/qrscannerapp.apk"
+    },
+    {
+      "id": "habittrackerapp",
+      "name": "HabitTrackerApp",
+      "packageName": "com.benaissa.habits",
+      "description": "Suivi d'habitudes avec streaks, objectifs plusieurs fois par jour et rappel quotidien.",
+      "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/habittrackerapp.png",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "updatedAt": "2026-09-15T15:34:17.326Z",
+      "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/habittrackerapp-v1.0/habittrackerapp.apk"
     }
   ]
 }
