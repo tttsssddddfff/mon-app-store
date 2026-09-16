@@ -131,6 +131,17 @@
       "versionCode": 1,
       "updatedAt": "2026-09-15T19:31:46.395Z",
       "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/game2048app-v1.0/game2048app.apk"
+    },
+    {
+      "id": "tetrisapp",
+      "name": "TetrisApp",
+      "packageName": "com.benaissa.tetris",
+      "description": "Tetris nouvelle generation : degrades animes, piece fantome, animations fluides et recompense visuelle a chaque niveau.",
+      "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/tetrisapp.png",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "updatedAt": "2026-09-16T15:56:49.621Z",
+      "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/tetrisapp-v1.0/tetrisapp.apk"
     }
   ]
 }
