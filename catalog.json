@@ -149,9 +149,10 @@
       "packageName": "com.benaissa.valolineups",
       "description": "Guide de lineups Valorant : positions de competences par carte et par agent, avec schemas et favoris.",
       "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/valolineups.png",
-      "versionName": "1.0",
-      "versionCode": 1,
-      "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/valolineups-v1.0/valolineups.apk"
+      "versionName": "1.1",
+      "versionCode": 2,
+      "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/valolineups-v1.1/valolineups.apk",
+      "updatedAt": "2026-09-17T15:48:58.112Z"
     }
   ]
 }
