@@ -142,6 +142,16 @@
       "versionCode": 5,
       "updatedAt": "2026-09-16T19:38:38.443Z",
       "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/tetrisapp-v1.4/tetrisapp.apk"
+    },
+    {
+      "id": "valolineups",
+      "name": "ValoLineups",
+      "packageName": "com.benaissa.valolineups",
+      "description": "Guide de lineups Valorant : positions de competences par carte et par agent, avec schemas et favoris.",
+      "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/valolineups.png",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/valolineups-v1.0/valolineups.apk"
     }
   ]
 }
