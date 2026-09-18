@@ -138,10 +138,10 @@
       "packageName": "com.benaissa.tetris",
       "description": "Tetris nouvelle generation : degrades animes, piece fantome, animations fluides et recompense visuelle a chaque niveau.",
       "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/tetrisapp.png?v=1789580532",
-      "versionName": "1.4",
-      "versionCode": 5,
-      "updatedAt": "2026-09-16T19:38:38.443Z",
-      "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/tetrisapp-v1.4/tetrisapp.apk"
+      "versionName": "1.5",
+      "versionCode": 6,
+      "updatedAt": "2026-09-18T15:06:23Z",
+      "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/tetris-v1.5/tetris.apk"
     },
     {
       "id": "valolineups",
