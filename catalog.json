@@ -153,6 +153,17 @@
       "versionCode": 6,
       "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/valolineups-v1.5/valolineups.apk",
       "updatedAt": "2026-09-18T14:39:28.234Z"
+    },
+    {
+      "id": "lineupsvalorant",
+      "name": "LineupsValorant",
+      "packageName": "com.benaissa.lineupsvalorant",
+      "description": "Acces rapide au site LineupsValorant (lineups Valorant completes, images et videos a jour).",
+      "iconUrl": "https://raw.githubusercontent.com/tttsssddddfff/mon-app-store/main/icons/lineupsvalorant.png",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "apkUrl": "https://github.com/tttsssddddfff/mon-app-store/releases/download/lineupsvalorant-v1.0/lineupsvalorant.apk",
+      "updatedAt": "2026-09-18T14:45:03.882Z"
     }
   ]
 }
